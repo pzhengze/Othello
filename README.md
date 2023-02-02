@@ -7,3 +7,5 @@ Run the game by running the following in the terminal:
 ```
 python gui.py
 ```
+
+Made in winter of 2021
