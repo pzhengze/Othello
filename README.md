@@ -1,2 +1,2 @@
 # Othello
-A python program based on the Othello board game
+A python program based on the Othello board game.
